@@ -5,3 +5,5 @@ issue #5
 수정했는데 왜
 
 stash prac
+
+stash하고 전혀 다른 내용 수정하고 commit
