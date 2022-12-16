@@ -12,3 +12,5 @@ stash 반영하고 수정된 표시 있는 파일에서는 commit을 안 하면 
 
 stash 반영하고 git commit 안 하고 stash 계속 했다 반영했다 하면 commit 전 수정 부분까지 한 번에
 stash가 된다.
+
+stash for stash
