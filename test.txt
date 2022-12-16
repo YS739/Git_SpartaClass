@@ -7,3 +7,5 @@ issue #5
 stash prac
 
 stash하고 전혀 다른 내용 수정하고 commit
+
+2번 수정 하고 stash 하고 commit
