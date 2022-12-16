@@ -14,3 +14,4 @@ stash 반영하고 git commit 안 하고 stash 계속 했다 반영했다 하면
 stash가 된다.
 
 stash for stash
+t수정1
