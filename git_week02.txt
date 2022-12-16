@@ -5,3 +5,5 @@
 - jim 파일에 git week02라닌
 
 - pr하고 한 번 더 수정해서 pr함
+
+amend 테스트
