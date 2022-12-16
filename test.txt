@@ -4,14 +4,4 @@ issue #5
 여기다 여기도 수정 for stash
 수정했는데 왜
 
-a머야 수정 했는데 와이ㄹ나ㅗ 
-
-stash만 하고 commit 안 한 상태에서는 다시 stash가 안 되는건가?
-
-stash 반영하고 수정된 표시 있는 파일에서는 commit을 안 하면 stash가 안 되는 거나?
-
-stash 반영하고 git commit 안 하고 stash 계속 했다 반영했다 하면 commit 전 수정 부분까지 한 번에
-stash가 된다.
-
-stash for stash
-t수정1
+stash prac
